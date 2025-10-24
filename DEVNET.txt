@@ -1,1 +1,4 @@
-I'm a git genius now!
+<<<<<<< HEAD
+=======
+I'm a git beginner now!
+>>>>>>> test
